@@ -236,7 +236,7 @@ function menosQueNoventa(num) {
       letra === "e" ||
       letra === "i" ||
       letra === "o" ||
-      letra === "e"
+      letra === "u"
     ) {
       return "Es vocal";
     } else {
